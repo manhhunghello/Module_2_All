@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTVN/BTVN.iml" filepath="$PROJECT_DIR$/BTVN/BTVN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_17_GhiDoiTuong_DocDoiTuong/DocDanhSachSinhVien/DocDanhSachSinhVien.iml" filepath="$PROJECT_DIR$/Unit_17_GhiDoiTuong_DocDoiTuong/DocDanhSachSinhVien/DocDanhSachSinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_17_GhiDoiTuong_DocDoiTuong/GhiDoiTuong/GhiDoiTuong.iml" filepath="$PROJECT_DIR$/Unit_17_GhiDoiTuong_DocDoiTuong/GhiDoiTuong/GhiDoiTuong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_2.iml" filepath="$PROJECT_DIR$/Module_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN/QLSP/QLSP.iml" filepath="$PROJECT_DIR$/BTVN/QLSP/QLSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toan/Toan.iml" filepath="$PROJECT_DIR$/Toan/Toan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN/TuDuy/TuDuy.iml" filepath="$PROJECT_DIR$/BTVN/TuDuy/TuDuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_1/Unit_1.iml" filepath="$PROJECT_DIR$/Unit_1/Unit_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_10_Arraylist/Unit_10_Arraylist.iml" filepath="$PROJECT_DIR$/Unit_10_Arraylist/Unit_10_Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_11_StackandQueue/Unit_11_StackandQueue.iml" filepath="$PROJECT_DIR$/Unit_11_StackandQueue/Unit_11_StackandQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_12_JavaCollectionFramework/Unit_12_JavaCollectionFramework.iml" filepath="$PROJECT_DIR$/Unit_12_JavaCollectionFramework/Unit_12_JavaCollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_13_ThuatToanTimKiem/Unit_13_ThuatToanTimKiem.iml" filepath="$PROJECT_DIR$/Unit_13_ThuatToanTimKiem/Unit_13_ThuatToanTimKiem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_14_ThuatToanSapSep/Unit_14_ThuatToanSapSep.iml" filepath="$PROJECT_DIR$/Unit_14_ThuatToanSapSep/Unit_14_ThuatToanSapSep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_15_SuLyNgoaiLe_Debug/Unit_15_SuLyNgoaiLe_Debug.iml" filepath="$PROJECT_DIR$/Unit_15_SuLyNgoaiLe_Debug/Unit_15_SuLyNgoaiLe_Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_16_IO_TextFile/Unit_16_IO_TextFile.iml" filepath="$PROJECT_DIR$/Unit_16_IO_TextFile/Unit_16_IO_TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_17_GhiDoiTuong_DocDoiTuong/Unit_17_GhiDoiTuong_DocDoiTuong.iml" filepath="$PROJECT_DIR$/Unit_17_GhiDoiTuong_DocDoiTuong/Unit_17_GhiDoiTuong_DocDoiTuong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_18_Thread/Unit_18_Thread.iml" filepath="$PROJECT_DIR$/Unit_18_Thread/Unit_18_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_19_Regex/Unit_19_Regex.iml" filepath="$PROJECT_DIR$/Unit_19_Regex/Unit_19_Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_2/Unit_2.iml" filepath="$PROJECT_DIR$/Unit_2/Unit_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_20/Unit_20.iml" filepath="$PROJECT_DIR$/Unit_20/Unit_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_3/Unit_3.iml" filepath="$PROJECT_DIR$/Unit_3/Unit_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_4/Unit_4.iml" filepath="$PROJECT_DIR$/Unit_4/Unit_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_5/Unit_5.iml" filepath="$PROJECT_DIR$/Unit_5/Unit_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_6/Unit_6.iml" filepath="$PROJECT_DIR$/Unit_6/Unit_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_7/Unit_7.iml" filepath="$PROJECT_DIR$/Unit_7/Unit_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_8/Unit_8.iml" filepath="$PROJECT_DIR$/Unit_8/Unit_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit_9/Unit_9.iml" filepath="$PROJECT_DIR$/Unit_9/Unit_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case/case.iml" filepath="$PROJECT_DIR$/case/case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case2/case2.iml" filepath="$PROJECT_DIR$/case2/case2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+    </modules>
+  </component>
+</project>
